@@ -1,0 +1,3 @@
+Professeur de magie CSFML :
+Attention aux fuites de mana quand vous
+utilisez les sorts de CSFML.
